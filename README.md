@@ -8,11 +8,8 @@ usefull to alert the police when an arm robbery take place and a  firearm can be
 detected on a surveillance camera.
 
 ## Files on the repository
-
-You can find the keras implementation of the YOLOV3 architecture with the 
-custom weight and anchors obtained by transfer-learning, the dataset with the 
-hand made labels, the presentation and a short document explaining the
-architecture.
+Due to the weight of the files, the implementation + dataset + custom weight can be found on my gitlab account :
+[mprieur gitlab](https://gitlab.insa-rouen.fr/mprieur/firearm-yolov3)
 
 ## Examples of images processed by the trained model
 <img src="img1.png" width="300">
