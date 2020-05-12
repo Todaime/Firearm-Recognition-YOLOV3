@@ -12,11 +12,7 @@ Due to the weight of the files, the implementation + dataset + custom weight can
 [mprieur gitlab](https://gitlab.insa-rouen.fr/mprieur/firearm-yolov3)
 
 ## Examples of images processed by the trained model
-<img src="img1.png" width="300">
-<img src="img4.png" width="300">
-<img src="img2.png" width="300">
-<img src="img3.png" width="300">
-<img src="img5.png" width="300">
+<img src="img1.png" width="235"> <img src="img4.png" width="225"> <img src="img2.png" width="300"> <img src="img3.png" width="275"> <img src="img5.png" width="250">
 
 ## User Guide
 
